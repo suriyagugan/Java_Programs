@@ -1,3 +1,5 @@
+//Rotating the Array on Right for n times
+
 import java.util.Scanner;
 
 public class RightRotation 
@@ -29,7 +31,5 @@ public class RightRotation
 				System.out.print(i+" ");
 			}
 		}
-
 	}
-
 }
